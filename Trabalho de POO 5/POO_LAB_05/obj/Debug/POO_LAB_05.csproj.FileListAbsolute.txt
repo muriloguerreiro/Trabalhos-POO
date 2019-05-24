@@ -1,0 +1,10 @@
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\bin\Debug\POO_LAB_05.exe.config
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\bin\Debug\POO_LAB_05.exe
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\bin\Debug\POO_LAB_05.pdb
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\obj\Debug\POO_LAB_05.csprojAssemblyReference.cache
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\obj\Debug\POO_LAB_05.Form1.resources
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\obj\Debug\POO_LAB_05.Properties.Resources.resources
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\obj\Debug\POO_LAB_05.csproj.GenerateResource.cache
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\obj\Debug\POO_LAB_05.csproj.CoreCompileInputs.cache
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\obj\Debug\POO_LAB_05.exe
+C:\Users\MURILO\Desktop\Faculdade\POO\POO_LAB_05\POO_LAB_05\obj\Debug\POO_LAB_05.pdb
